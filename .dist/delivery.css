@@ -1,7 +1,8 @@
 .gridcontainer{
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: auto auto  auto;
     column-gap:0cm;
+    margin-left: 200px;
     
 }
 .tag{
@@ -35,7 +36,7 @@
     width: 300px;
 
 }
-.firfir{
+.firfir,.beyaynet,.pastasigo,.shiro,.batkilt,.timatimsils{
     width: 350px;
     height: 300px;
 }
@@ -51,4 +52,7 @@
 .pastasigo{
     width: 350px;
     height: 300px;
+}
+.fa fa-shopping-cart{
+    border-color: rgb(247, 126, 126);
 }
