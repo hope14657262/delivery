@@ -37,6 +37,7 @@ font-family: lato,sans-serif;
    
 }
 
+
 .firfir,.beyaynet,.pastasigo,.shiro,.batkilt,.timatimsils{
     width: 350px;
     height: 300px;
@@ -69,4 +70,36 @@ font-family: lato,sans-serif;
 }
 .fa fa-shopping-cart{
     border-color: rgb(247, 126, 126);
+}
+.fooddiv1,.fooddiv2,.fooddiv3,.fooddiv4,.fooddiv5,.fooddiv6{
+    width: 355px;
+    height: 390px;
+    border: #C7DCA7 2px solid;
+    background-color: #C7DCA7;
+    border-radius: 20px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 100px;
+}
+.header{
+    background-color: #FFC5C5;
+    padding-left: 70%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    border-radius: 10px;
+    display: grid;
+    align-items: right;
+    justify-content: space-between;
+    height: 80px;
+  
+
+}
+.link{
+   margin: 10px;
+  
+    
+}
+.name{
+    display: inline;
 }
