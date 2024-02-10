@@ -92,6 +92,7 @@ font-family: lato,sans-serif;
     align-items: right;
     justify-content: space-between;
     height: 80px;
+   
   
 
 }
@@ -102,4 +103,17 @@ font-family: lato,sans-serif;
 }
 .name{
     display: inline;
+    padding: 5px;
+    text-decoration: none;
+    margin-top: 15px;
+    background-image: url(Untitleddesign.png);
+    margin-top: 15px;
+    border-radius: 10px;
+    
+}
+a:link {
+    text-decoration:none;
+    margin-top: 15px;
+    
+
 }
