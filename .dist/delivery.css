@@ -14,7 +14,7 @@
 }
 .image{
     width: 100%;
-    height: auto;
+    height: 100%;
     border-color: azure ;
     border-top-left-radius: 10%;
     border-top-right-radius: 10%;
